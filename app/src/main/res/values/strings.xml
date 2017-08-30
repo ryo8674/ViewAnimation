@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewAnimation</string>
+    <string name="alpha">透明度</string>
+    <string name="scale">拡大・縮小</string>
+    <string name="translate">移動</string>
+    <string name="rotate">回転</string>
+</resources>
